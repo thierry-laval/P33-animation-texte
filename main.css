@@ -3,9 +3,9 @@ html {
   overflow: hidden;
 }
 body {
-  background: #355c7d; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #24553a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24553a, rgb(122, 164, 126), rgb(133, 221, 124)); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24553a, rgb(122, 164, 126), rgb(133, 221, 124)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   height:100vh;
   display:flex;
   align-items: center;
@@ -19,8 +19,12 @@ h1 {
   font-size: 64px;
 }
 
-p {
+h2 {
   font-size: 24px;
+}
+
+p {
+  font-size: 18px;
 }
 
 .animated-text span:not(.fade) {
@@ -35,7 +39,7 @@ p {
 
 .animated-text--typing span.fade + span:not(.fade) {
   transition: none;
-  background:black;
+  background:rgb(32, 243, 4);
   opacity:1;
   transform: none;
   color:transparent;
