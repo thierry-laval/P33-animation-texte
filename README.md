@@ -20,7 +20,7 @@ _`Début du projet le 14/11/2023`_
 
 Le projet P33 a été conçu pour intégrer une animation de texte dynamique dans une page web, offrant une expérience utilisateur engageante et moderne. L'objectif principal est de créer une animation fluide et attrayante qui capte l'attention des utilisateurs et renforce l'impact visuel du contenu textuel.
 
-* [Voir la page en ligne](https://thierry-laval.github.io/P29-dark-mode/)
+* [Voir la page en ligne](https://thierry-laval.github.io/P33-animation-texte/)
 
 ***
 
